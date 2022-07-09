@@ -8,6 +8,20 @@
 <a href="#autor">Autor</a>
 </p>
 
+#Tela inicial
+
+
+![projetoTristeza](https://user-images.githubusercontent.com/63480432/178086221-ec22b81d-ba19-4fb5-9e94-ad867130fbd3.png)
+
+
+
+#Uso de modo noturno
+
+
+
+![projetoTristezaModoNoturno](https://user-images.githubusercontent.com/63480432/178086225-49fd4179-6b4e-453b-a662-068df0522420.png)
+
+
 # SOBRE 
 
 <p>Inspirado em um pintura de Van Gogh 'Homem velho com a cabeça em suas mãos', eu quis fazer algo <p> relacionado
